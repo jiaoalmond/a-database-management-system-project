@@ -1,6 +1,5 @@
 /* Purpose: Creating view objects in the database AMLibrary
 Script Date: June 09, 2022
-Developed by: Jinyu JIAO
 */
 
 
