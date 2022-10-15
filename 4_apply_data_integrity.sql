@@ -1,6 +1,5 @@
 /* Purpose: Applying Data Integrity to the Table Objects in the database AMLibrary
 Script Date: June 11, 2022
-Developed by: Jinyu JIAO
 */
 
 use AMLibrary
