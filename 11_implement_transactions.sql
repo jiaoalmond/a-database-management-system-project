@@ -1,6 +1,5 @@
 /* Purpose: Implementing Transactionss in the database AMLibrary
 Script Date: June 20, 2022
-Developed by: Jinyu JIAO
 */
 
 use AMLibrary
