@@ -1,6 +1,5 @@
 /* Purpose: Creating the database AMLibrary
 Script Date: June 08, 2022
-Developed by: Jinyu JIAO
 */
 
 /* Add a statement that specifies the script runs in the context of the master database */
