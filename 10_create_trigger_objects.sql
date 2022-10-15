@@ -1,6 +1,5 @@
 /* Purpose: Creating User-Defined Triggers in the database AMLibrary
 Script Date: June 21, 2022
-Developed by: Jinyu JIAO
 */
 
 use AMLibrary
