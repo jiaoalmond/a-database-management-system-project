@@ -1,6 +1,5 @@
 /* Purpose: Inserting data into table objects in the database AMLibrary
 Script Date: June 12, 2022
-Developed by: Jinyu JIAO
 */
 
 use AMLibrary
